@@ -11,3 +11,6 @@
 # Incluir cualquier carpeta Assets y todo su contenido.
 !**/Assets/
 !**/Assets/**
+
+# Incluir documentación principal del repositorio.
+!README.md
